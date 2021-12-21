@@ -1,5 +1,7 @@
+// a list of required input
 const alphabet = ['A','B','C', 'D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z'];
 
+// Creating a function that change the position of the alphabets with + or - 9
 function rot9(str) {
     // create placeholder
     let placeHolder = '';
